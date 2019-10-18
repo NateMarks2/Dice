@@ -17,7 +17,7 @@ fill(#ffffff);
   }
   
 }
-  text(Integer.toString(sum), 500,500);
+  text(sum + "", 500,500);
 }
 void mousePressed()
 {
